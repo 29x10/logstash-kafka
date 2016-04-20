@@ -1,0 +1,12 @@
+*.gem
+Gemfile.lock
+Gemfile.bak
+.bundle
+vendor
+
+lib/logstash-input-kafka_jars.rb
+
+
+*.jar
+
+*.xml
